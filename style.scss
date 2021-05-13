@@ -1,0 +1,15 @@
+/*# sourceMappingURL=style.scss.map */
+
+@use 'c';
+
+.buttom{
+    background-color: c.$black;
+    color: c.$pink;
+    font-size: 100px;
+}
+
+
+body{
+    text-align: center;
+}
+

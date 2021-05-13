@@ -1,0 +1,30 @@
+@use 'c';
+
+
+#hello{
+    @extend %input-design;
+}
+
+#mail{
+    @extend %input-design;
+}
+#age{
+    @extend %input-design;
+}
+
+
+
+
+
+label {
+ color: c.$pink;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+%input-design{
+   
+    background-color: c.$pink;
+}
+
+

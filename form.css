@@ -1,0 +1,10 @@
+label {
+  color: #ff0f6b;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#hello, #mail, #age {
+  background-color: #ff0f6b;
+}
+
+/*# sourceMappingURL=form.css.map */
